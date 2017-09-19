@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+
+        <item
+            android:id="@+id/nav_myHall"
+            android:icon="@mipmap/ic_account_balance_black_18dp"
+            android:title="My Hall" />
+        //ok bye
+        <item
+            android:id="@+id/nav_myWallet"
+            android:icon="@mipmap/ic_account_balance_wallet_black_18dp"
+            android:title="My Wallet" />
+        <item
+            android:id="@+id/nav_myShortlist"
+            android:icon="@mipmap/ic_favorite_border_black_24dp"
+            android:title="My Shortlist" />
+    </group>
+
+    <item android:title="Book">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_conferenceHall"
+                android:icon="@mipmap/ic_home_black_24dp"
+                android:title="Conference Hall" />
+
+            <item
+                android:id="@+id/nav_marriageHall"
+                android:icon="@mipmap/church"
+                android:title="Marriage Hall" />
+
+            <item
+                android:id="@+id/nav_partyHall"
+                android:icon="@mipmap/cityhall"
+                android:title="Party Hall" />
+
+            <item
+                android:id="@+id/nav_garden"
+                android:icon="@mipmap/grass"
+                android:title="Garden" />
+
+        </menu>
+
+    </item>
+
+    <item android:title="Extra">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@mipmap/ic_settings_black_24dp"
+                android:title="Setting" />
+
+            <item
+                android:id="@+id/nav_rateus"
+                android:icon="@mipmap/ic_star_rate_black_18dp"
+                android:title="Rate Us" />
+
+            <item
+                android:id="@+id/nav_helpAndSupport"
+                android:icon="@mipmap/ic_help_black_18dp"
+                android:title="Help and Support" />
+
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@mipmap/ic_info_black_18dp"
+                android:title="Logout" />
+
+        </menu>
+
+    </item>
+
+
+</menu>

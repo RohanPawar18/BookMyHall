@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "666624079133",
+    "firebase_url": "https://bookmyhall3.firebaseio.com",
+    "project_id": "bookmyhall3",
+    "storage_bucket": "bookmyhall3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666624079133:android:34d7efdbb6d4deea",
+        "android_client_info": {
+          "package_name": "com.example.dhaval_2.bookmyhall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666624079133-k0rrsrtqamgsm7lmruv2m6ml0ci8o340.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhaval_2.bookmyhall",
+            "certificate_hash": "2CD932279507906174E654F1A6378D457189F7DF"
+          }
+        },
+        {
+          "client_id": "666624079133-0c85a6ql60le1d42i48top1c4vm0t5du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpBRPfKo8w9nHuqdhGnFZp8hIvM2XVfY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666624079133-0c85a6ql60le1d42i48top1c4vm0t5du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
